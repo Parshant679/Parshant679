@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Parshant Rajput and I'm a Associate Software developer, from India</p>
+<p align="left">My name is Parshant Rajput and I'm a Software Engineer, from India</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨solving problems since 2019<br>📚  Working as a Associate Software developer<br>📚 I'm currently learning MERN Stack<br>🎯 Goals: Want to Crack any one of the FANG or to Build something of my own.</p>
+<p align="left">✨solving problems since 2019<br>📚  Working as a Software Engineer<br>📚 I'm currently learning Go/Python <br>🎯 Goals: Want to Crack any one of the FANG or to Build something of my own.</p>
 
 ###
 
